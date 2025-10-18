@@ -58,9 +58,11 @@ AI-powered WhatsApp bot that helps users detect scams and learn about digital sa
 🖥️ [**APIs App – Frontend**](https://github.com/fedeb123/APIs-App-Frontend)  
 React + Tailwind Frontend development for a Petshop E-Commerce platform. 
 
-
 ⚙️ [**APIs App – Backend**](https://github.com/fedeb123/APIs-App-Backend)  
 Java REST API built with **Spring Boot**, **Hibernate**, and **MySQL** powering the Petshop e-commerce frontend.
+
+⚙️ [**UADE - POO - TPO**](https://github.com/fedeb123/uade-poo-tpo)  
+Java REST API and minimalistic frontend built with **Swing** and **DAO** pattern, developed as part of a university project for a clinical laboratory management system.
 
 ---
 
